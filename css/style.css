@@ -1,0 +1,55 @@
+body{
+	max-width: 300px;
+	margin: auto;
+}
+
+#container{
+	background-color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+#card-wrapper{
+	max-width: 100%;
+	position: relative;
+	padding: 5px;
+	background-color: #d8390d;
+	border-radius: 5px 5px;
+}
+
+#dragon-name{
+	text-align: center;
+	font-size: 15px;
+	background-color: #efd1c9;
+	border-radius: 5px;
+	border:solid black;
+}
+
+#dragon img{
+	position: relative;
+	max-width: 98%;
+	border:solid black;
+}
+
+#dragon-title{
+	position: relative;
+	background-color: #efd1c9;
+	border-radius: 5px;
+	border: solid black;
+}
+
+#dragon-text{
+	position: relative;
+	background-color: #f4e3de;
+	border-radius: 5px;
+	border: solid black;
+	z-index: 0;
+}
+
+#dragon-power{
+	position: relative;
+	background-color: #efd1c9;
+	border-radius: 5px;
+	border: solid black;
+	float: right;
+	margin-left: 85%;
+}

@@ -48,10 +48,10 @@ body{
 }
 
 #dragon-power{
-	position: relative;
+	position: absolute;
+	bottom: 1px;
+	right: 1px;
 	background-color: #efd1c9;
 	border-radius: 5px;
 	border: solid black;
-	float: right;
-	margin-left: 85%;
 }
